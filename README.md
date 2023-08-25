@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ahmed Allam<br><br>A Computer Engineering sophomore student, and a Deep Learning enthusiast<br><br>- 🔭 I’m currently working on [Equinox](https://github.com/ahmed-alllam/Equinox)<br><br>- 🌱 I’m currently learning **Advanced MLOps, Computer Vision, and Deep Learning architectures**<br><br>- 💬 Ask me about **PyTorch, Jax, Scikit Learn**<br><br>- 📫 How to reach me **ahmedeallam@aucegypt.edu**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-e-allam/](https://www.linkedin.com/in/ahmed-e-allam/)
+Hi 👋, I'm Ahmed Allam<br><br>A Computer Engineering sophomore student, and a Deep Learning enthusiast<br><br>- 🔭 I’m currently working on [Equinox](https://github.com/ahmed-alllam/Equinox)<br><br>- 🌱 I’m currently learning **Deep Learning architectures, Computer Vision, MLOps, and Brain–Computer Interfaces (BCI)**<br><br>- 💬 Ask me about **PyTorch, Jax, Scikit Learn**<br><br>- 📫 How to reach me **ahmedeallam@aucegypt.edu**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-e-allam/](https://www.linkedin.com/in/ahmed-e-allam/)
 
 
 ## 🌐 Socials:
