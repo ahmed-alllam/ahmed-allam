@@ -4,15 +4,13 @@ Hi there! 👋 I'm Ahmed Allam, a Computer Engineering junior student and Deep L
 - 🔭 I’m currently working on [BrainLens](https://github.com/ahmed-alllam/BrainLens) and [Equinox](https://github.com/ahmed-alllam/Equinox)
 - 🌱 I’m currently learning **Deep Learning architectures, Spiking Neural Networks (SNNs), MLOps, and Brain–Computer Interfaces (BCI)**
 - 📫 How to reach me: [ahmedeallam@aucegypt.edu](mailto:ahmedeallam@aucegypt.edu)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ahmed-e-allam/)
+- 📄 Know about my experiences on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-e-allam) 
 - 📝 Check out my deep learning blog: [Allam's Blog](https://allam.vercel.app/)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-e-allam) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%23FF9900.svg?style=for-the-badge&logo=JAX&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
